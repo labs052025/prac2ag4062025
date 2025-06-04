@@ -5,5 +5,7 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("Hola mis amores ...");
         System.out.println("Xd ...");
+        System.out.println("estamos en el prime");
+        System.out.println("sopa de gallina");
     }
 }
